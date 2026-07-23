@@ -1,6 +1,6 @@
 # Digital_Design_Interview_Questions
 
-# Ref. Exercise:
+# Reference Exercise:
 
 <img width="910" height="602" alt="image" src="https://github.com/user-attachments/assets/0feee5e8-5563-479b-898a-5fcefc454dda" />
 
