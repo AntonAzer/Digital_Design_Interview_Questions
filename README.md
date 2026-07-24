@@ -1,6 +1,7 @@
 # Digital_Design_Interview_Questions
 
 # Reference Exercise:
+# Part 1:
 
 <img width="910" height="602" alt="image" src="https://github.com/user-attachments/assets/0feee5e8-5563-479b-898a-5fcefc454dda" />
 
@@ -107,3 +108,9 @@ $$\text{Cout} = \text{Carry}_{\text{binary}} + (V_3 \cdot V_2) + (V_3 \cdot V_1)
                   └──────────────┬───────────────┘
                                  ▼
                             S_digit[3:0]
+```
+----------------------
+# Part 2
+
+<img width="968" height="743" alt="image" src="https://github.com/user-attachments/assets/ce1e0d1c-2371-43af-b8a2-07d63023bae0" />
+
