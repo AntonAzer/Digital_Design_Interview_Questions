@@ -118,4 +118,12 @@ $$\text{Cout} = \text{Carry}_{\text{binary}} + (V_3 \cdot V_2) + (V_3 \cdot V_1)
 
 <img width="1600" height="1048" alt="WhatsApp Image 2026-07-24 at 10 30 48 PM" src="https://github.com/user-attachments/assets/b8f26639-fc3a-418b-9771-cec564a89e09" />
 
+##  Question 3.2 FSM: 
+Very Basic :) 
+
+<img width="1600" height="786" alt="WhatsApp Image 2026-07-24 at 10 50 32 PM" src="https://github.com/user-attachments/assets/912d2020-a291-44b6-a709-2954a8f8e16b" />
+
+##  Question 3.3 FSM:
+
+
 
