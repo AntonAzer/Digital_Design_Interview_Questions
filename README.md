@@ -123,7 +123,23 @@ Very Basic :)
 
 <img width="1600" height="786" alt="WhatsApp Image 2026-07-24 at 10 50 32 PM" src="https://github.com/user-attachments/assets/912d2020-a291-44b6-a709-2954a8f8e16b" />
 
-##  Question 3.3 FSM:
+##  Question 3.3:
+
+The Main Difference:
+
+Latch: It is level-sensitive. It continuously passes the input data to the output as long as the enable/clock signal is active (acting transparently).
+
+Flip-flop: It is edge-triggered. It only samples the input and updates the output at the exact moment the clock signal transitions (either the rising or falling edge).
+
+When to Prefer Each:
+
+Prefer Flip-flops: In synchronous digital circuits (like state machines and processors) to prevent timing errors, glitches, and race conditions. This is the standard, safe choice.
+
+Prefer Latches: When you need to save silicon area and reduce power consumption (they require fewer logic gates), or in advanced high-speed designs that use "time borrowing" techniques.
+
+##  Question 3.4 FSM:
+
+<img width="1599" height="787" alt="WhatsApp Image 2026-07-24 at 11 01 28 PM" src="https://github.com/user-attachments/assets/aac6b46e-d654-454c-b96d-68a5e19b6568" />
 
 
 
