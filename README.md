@@ -141,5 +141,7 @@ Prefer Latches: When you need to save silicon area and reduce power consumption 
 
 <img width="1599" height="787" alt="WhatsApp Image 2026-07-24 at 11 01 28 PM" src="https://github.com/user-attachments/assets/aac6b46e-d654-454c-b96d-68a5e19b6568" />
 
+##  Question 3.5 FSM:
 
+<img width="1600" height="822" alt="WhatsApp Image 2026-07-24 at 11 26 16 PM" src="https://github.com/user-attachments/assets/ad2a8856-1639-4047-9c34-a15bc12596e7" />
 
