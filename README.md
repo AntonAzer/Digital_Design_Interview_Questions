@@ -206,6 +206,7 @@ Cons: Significantly higher hardware complexity (instruction fetch, decode, and d
 <img width="1200" height="666" alt="image" src="https://github.com/user-attachments/assets/9576e26e-0558-456a-aec8-2eac76f5feca" />
 
 **Question 2.1:**
+
 The analysis:
 
 <img width="1303" height="1056" alt="WhatsApp Image 2026-07-25 at 3 16 26 AM" src="https://github.com/user-attachments/assets/151b1b99-2a85-4c86-a41c-b4481fe68848" />
