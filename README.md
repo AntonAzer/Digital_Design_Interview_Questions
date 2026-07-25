@@ -154,11 +154,11 @@ Prefer Latches: When you need to save silicon area and reduce power consumption 
 
 <img width="987" height="576" alt="image" src="https://github.com/user-attachments/assets/f8e28524-0abb-4c42-ab1e-9687bad0fa63" />
 
-**Question 7.1**
+##  **Question 7.1**
 
 Answer: The primary advantage of pipelining is significantly increased instruction throughput. By dividing the execution of an instruction into smaller, discrete stages that operate concurrently on different instructions, the processor can achieve higher clock frequencies and approach an execution rate of one instruction per clock cycle (IPC = 1).
 
-**Question 7.2**
+##  **Question 7.2**
 
 Answer: Processors avoid excessively deep pipelines (e.g., 100 stages) due to several factors:
 
@@ -170,7 +170,7 @@ Data Hazards: Deeper pipelines increase the distance between instruction executi
 
 Power and Area: More stages require more registers and clock distribution networks, increasing complexity and power consumption.
 
-**Question 7.3**
+##  **Question 7.3**
 
 Answer: A hazard is a condition that prevents the next instruction in the instruction stream from executing during its designated clock cycle. They are categorized into Data, Control, and Structural hazards.
 Resolutions:
@@ -193,7 +193,7 @@ Pro: Minimizes control hazard penalties.
 
 Con: Requires complex hardware; mispredictions still cause costly pipeline flushes.
 
-**Question 7.4**
+##  **Question 7.4**
 
 Answer: A superscalar processor is designed to issue and execute multiple instructions in a single clock cycle by having multiple parallel execution units (e.g., multiple ALUs, FPUs) within a single processor core.
 
@@ -205,14 +205,14 @@ Cons: Significantly higher hardware complexity (instruction fetch, decode, and d
 
 <img width="1200" height="666" alt="image" src="https://github.com/user-attachments/assets/9576e26e-0558-456a-aec8-2eac76f5feca" />
 
-**Question 2.1:**
+##  **Question 2.1:**
 
 The analysis:
 
 <img width="1303" height="1056" alt="WhatsApp Image 2026-07-25 at 3 16 26 AM" src="https://github.com/user-attachments/assets/151b1b99-2a85-4c86-a41c-b4481fe68848" />
 
 -----------------------
-**Question 2.2:**
+##  **Question 2.2:**
 
 ### 31-Day Month Detector Circuit
 
@@ -232,11 +232,11 @@ Using a Karnaugh map with these minterms and don't cares, the simplified Boolean
 
 *(Note: The prime symbol ' denotes negation or NOT)*
 
-**Conclusion:**
+##  **Conclusion:**
 The logic simplifies perfectly, meaning the circuit requires only a single **2-input XOR gate**.
 
 -----------------------
-**Question 2.3**
+##  **Question 2.3**
 
 A tristate buffer is a logic gate that has three distinct output states: HIGH (1), LOW (0), and High-Impedance (High-Z). It features a data input, an output, and an enable control pin.
 
