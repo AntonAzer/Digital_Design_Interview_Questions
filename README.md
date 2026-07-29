@@ -289,6 +289,9 @@ Why it is used: It is primarily used in digital systems to allow multiple device
 
 In VHDL, these exact hardware concepts map directly to **Signal Assignments** and **Variable Assignments**:
 
+
+By the way this book [Free Range VHDL](https://faculty-web.msoe.edu/johnsontimoj/EE3921/files3921/Book_FreeRangeVHDL.pdf) is the best to make you master VHDL.
+
 | Concept | Verilog Equivalent | VHDL Syntax | Execution Behavior | Target Hardware |
 | :--- | :--- | :--- | :--- | :--- |
 | **Nonblocking** | Nonblocking (`<=`) | Signal Assignment (`<=`) | Deferred update (at process end via Delta Delay) | Flip-Flops / Registers |
