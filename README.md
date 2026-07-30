@@ -339,7 +339,7 @@ EOR r0, r0, r1    @ r0 = (r0 ^ r1) ^ original r0 = original r1
 it considered as first trick in xor magic, it is confusable a little bit.
 
 ## Question 6.2:
-**The code in seperat .asm file.**
+**The code in seperate .asm file.**
 
 
 
