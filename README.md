@@ -249,7 +249,6 @@ Why it is used: It is primarily used in digital systems to allow multiple device
 <img width="958" height="426" alt="image" src="https://github.com/user-attachments/assets/06b0c5c4-7ca0-4119-b9d4-4b36453f1085" />
 
 
-# Digital Design Interview Questions
 
 ## Question 4.1
 
@@ -317,3 +316,30 @@ Variables are local to a `process` and update **instantly** on that exact line.
         temp := a;    -- temp updates IMMEDIATELY
         c    <= temp; -- c gets new value of temp right away
     end process;
+
+
+# Part 6:
+
+<img width="1017" height="542" alt="image" src="https://github.com/user-attachments/assets/d514167b-1508-4eb9-9f93-5585cabd7a1a" />
+
+Regrading to the head of the question "but are usually open to any assembly
+language" I solved both with ARM Assembly :)
+
+## Question 6.1:
+
+EOR r0, r0, r1    @ r0 = r0 ^ r1
+
+EOR r1, r0, r1    @ r1 = (r0 ^ r1) ^ r1 = original r0
+
+
+EOR r0, r0, r1    @ r0 = (r0 ^ r1) ^ original r0 = original r1
+
+
+
+it considered as first trick in xor magic, it is confusable a little bit.
+
+## Question 6.2:
+**The code in seperat .asm file.**
+
+
+
