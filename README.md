@@ -116,6 +116,8 @@ $$\text{Cout} = \text{Carry}_{\text{binary}} + (V_3 \cdot V_2) + (V_3 \cdot V_1)
 ----------------------
 # Part 2
 
+**This part is mainly about FSM but it does not contain how to implement it in HDL language, so this repo [FSM Practicing](https://github.com/AntonAzer/FSM_Practicing) contains coding some FSM examples in VHDL from the ref also**
+
 <img width="968" height="743" alt="image" src="https://github.com/user-attachments/assets/ce1e0d1c-2371-43af-b8a2-07d63023bae0" />
 
 ##  Question 3.1 FSM: 
