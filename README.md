@@ -9,7 +9,7 @@ The sequence of parts not from the book.
 
 <img width="910" height="602" alt="image" src="https://github.com/user-attachments/assets/0feee5e8-5563-479b-898a-5fcefc454dda" />
 
-# Detailed Answers:
+
 # Digital Design Interview Questions - BCD & Arithmetic Logic
 
 This document provides detailed solutions and hardware designs for common digital design interview questions regarding binary arithmetic, Binary Coded Decimal (BCD) representations, and BCD adder hardware architectures.
