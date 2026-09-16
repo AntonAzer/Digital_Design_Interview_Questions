@@ -26,3 +26,7 @@ This repository contains structured solutions and hardware designs for common di
   * Blocking vs. Nonblocking assignments & VHDL equivalents
 * **[Part 6: Assembly Language & Low-Level Programming](Part6_Assembly_Language.md)**
   * XOR variable swap in ARM Assembly
+
+## Reference 
+
+<img width="370" height="480" alt="Dig" src="https://github.com/user-attachments/assets/41f5951b-81d1-4d49-862b-fd41e2e87918" />
